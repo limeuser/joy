@@ -1,1 +1,14 @@
 /bin/
+*.iml
+.idea/
+target/
+tmp/
+log/
+*.swp
+*.log
+*.class
+*.project
+*.classpath
+*.settings
+.DS_Store
+.flattened-pom.xml
